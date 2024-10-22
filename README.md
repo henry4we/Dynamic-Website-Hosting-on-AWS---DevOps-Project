@@ -1,5 +1,4 @@
 
-![Alt text]( Architecture Diagram.png)
 ---
 
 
@@ -7,7 +6,7 @@
 
 This project demonstrates the deployment of a scalable, secure, and fault-tolerant dynamic website using AWS cloud services. The infrastructure is designed to ensure high availability, elasticity, and security. The resources are spread across multiple availability zones and subnets to provide redundancy and fault tolerance.
 
-
+![Alt text](Architecture Diagram.png)
 
 
 ## Table of Contents
