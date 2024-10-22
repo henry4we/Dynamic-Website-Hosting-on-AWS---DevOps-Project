@@ -1,7 +1,7 @@
 
-
+![Alt text]( Architecture Diagram.png)
 ---
-![Alt text]( Architecture Diagram.png)![image](https://github.com/user-attachments/assets/98d0794c-047e-43e1-8baa-24d663cca6a9)
+
 
 # Dynamic Website Hosting on AWS - DevOps Project
 
