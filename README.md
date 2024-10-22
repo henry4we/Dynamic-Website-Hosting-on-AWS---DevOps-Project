@@ -1,13 +1,13 @@
 
 
 ---
+![Alt text]( Architecture Diagram.png)![image](https://github.com/user-attachments/assets/98d0794c-047e-43e1-8baa-24d663cca6a9)
 
 # Dynamic Website Hosting on AWS - DevOps Project
 
 This project demonstrates the deployment of a scalable, secure, and fault-tolerant dynamic website using AWS cloud services. The infrastructure is designed to ensure high availability, elasticity, and security. The resources are spread across multiple availability zones and subnets to provide redundancy and fault tolerance.
 
-![Architecture Diagram](./3._Host_a_Dynamic_Web_App_on_AWS.png)
-![Alt text]( Architecture Diagram.png)![image](https://github.com/user-attachments/assets/0000af2f-03f1-46ea-b243-ea95899b1ba4)
+
 
 
 ## Table of Contents
