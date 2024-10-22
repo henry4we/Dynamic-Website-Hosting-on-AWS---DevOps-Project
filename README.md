@@ -1,4 +1,8 @@
 
+
+![Alt text](Architecture Diagram.png)![image](https://github.com/user-attachments/assets/b44e715c-03dd-4f63-810b-32ccaed1c494)
+
+
 ---
 
 
